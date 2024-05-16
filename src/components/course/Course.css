@@ -1,0 +1,30 @@
+.course {
+    width: 300px;
+    height: 500px;
+    border: 2px black;
+    border-radius: 20px;
+}
+.image {
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.courseTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 20px;
+}
+.courseText {
+    color: black;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.priceText {
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-right: 10px;
+}
